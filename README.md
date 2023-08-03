@@ -20,8 +20,6 @@ I'm studying Software Engineer at Severino Sombra University. My objective is to
 &nbsp;<a href="coelhopedro152@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="755923547259666602">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-</a>&nbsp;
+;
 
 
